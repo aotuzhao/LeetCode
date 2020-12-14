@@ -1,4 +1,4 @@
-package com.demo.hot100.com.demo.tree;
+package com.demo.tree;
 
 /**
  * @Description: 完全二叉树 数组转回 完全二叉树

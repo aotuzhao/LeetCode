@@ -1,6 +1,4 @@
-package com.demo.hot100.com.demo.tree;
-
-import java.util.Objects;
+package com.demo.tree;
 
 /**
  * @Description: desc

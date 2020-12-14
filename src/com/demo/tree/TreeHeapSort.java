@@ -1,4 +1,4 @@
-package com.demo.hot100.com.demo.tree;
+package com.demo.tree;
 
 import java.util.Arrays;
 
